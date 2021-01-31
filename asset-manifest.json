@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/intaxia/static/css/main.05976d62.chunk.css",
-    "main.js": "/intaxia/static/js/main.3b10df8f.chunk.js",
-    "main.js.map": "/intaxia/static/js/main.3b10df8f.chunk.js.map",
+    "main.js": "/intaxia/static/js/main.781566c0.chunk.js",
+    "main.js.map": "/intaxia/static/js/main.781566c0.chunk.js.map",
     "runtime-main.js": "/intaxia/static/js/runtime-main.9fe9a328.js",
     "runtime-main.js.map": "/intaxia/static/js/runtime-main.9fe9a328.js.map",
     "static/css/2.4ee2f7a8.chunk.css": "/intaxia/static/css/2.4ee2f7a8.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.4ee2f7a8.chunk.css",
     "static/js/2.0c55bb27.chunk.js",
     "static/css/main.05976d62.chunk.css",
-    "static/js/main.3b10df8f.chunk.js"
+    "static/js/main.781566c0.chunk.js"
   ]
 }
