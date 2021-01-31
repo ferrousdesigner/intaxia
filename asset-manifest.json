@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/intaxia/static/css/main.05976d62.chunk.css",
+    "main.js": "/intaxia/static/js/main.3b10df8f.chunk.js",
+    "main.js.map": "/intaxia/static/js/main.3b10df8f.chunk.js.map",
+    "runtime-main.js": "/intaxia/static/js/runtime-main.9fe9a328.js",
+    "runtime-main.js.map": "/intaxia/static/js/runtime-main.9fe9a328.js.map",
+    "static/css/2.4ee2f7a8.chunk.css": "/intaxia/static/css/2.4ee2f7a8.chunk.css",
+    "static/js/2.0c55bb27.chunk.js": "/intaxia/static/js/2.0c55bb27.chunk.js",
+    "static/js/2.0c55bb27.chunk.js.map": "/intaxia/static/js/2.0c55bb27.chunk.js.map",
+    "static/js/3.c2e842a5.chunk.js": "/intaxia/static/js/3.c2e842a5.chunk.js",
+    "static/js/3.c2e842a5.chunk.js.map": "/intaxia/static/js/3.c2e842a5.chunk.js.map",
+    "index.html": "/intaxia/index.html",
+    "static/css/2.4ee2f7a8.chunk.css.map": "/intaxia/static/css/2.4ee2f7a8.chunk.css.map",
+    "static/css/main.05976d62.chunk.css.map": "/intaxia/static/css/main.05976d62.chunk.css.map",
+    "static/js/2.0c55bb27.chunk.js.LICENSE.txt": "/intaxia/static/js/2.0c55bb27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fe9a328.js",
+    "static/css/2.4ee2f7a8.chunk.css",
+    "static/js/2.0c55bb27.chunk.js",
+    "static/css/main.05976d62.chunk.css",
+    "static/js/main.3b10df8f.chunk.js"
+  ]
+}
